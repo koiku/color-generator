@@ -1,4 +1,4 @@
-# Random Colors Generator for Linux
+# Random Colors Generator
 ### Setup
 + Clone repo ```git clone git@github.com:koiku/color-generator.git```
 + Go to folder ```cd color-generator```
